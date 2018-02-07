@@ -1,0 +1,1 @@
+# WordPress-hide-posts-from-strangers
